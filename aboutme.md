@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Brief introduciton
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Bibek Lakra. I am an enginnering graduate from IIT Kanpur in the department of electrical engineering in the year 2023. I aspire to solve real world problem thorugh my coding expertise. During my college life I got to work in embedded systems, IoTs, electronic circuits, machine learning, VLSI and system architechture design. I have experience in software development through internships and projects. I had worked with Huawei Technologies in summer'22 and early stage startup carbontrace in 2023 first half. I am young and there is long life ahead. I hope to see many interesting things ahead
+
+<!-- My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
 
-What else do you need?
+What else do you need? -->
 
-### My story
+### My hobbies
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I do watch a lot of anime and web series in my free time. Also I love to play some video games like genshin impact, valorant and mobile gmaes like pokemon go. I have some fun memories with outdoor games like badminton, cricket and football. Also I am very experienced player of chess in my past. But now a days I have very much attached to [leetcode](https://leetcode.com/u/Poha-Jalebi/)
