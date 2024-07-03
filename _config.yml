@@ -51,16 +51,16 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "bibeklakra0@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: bibek.lakra.1
-  github: BibekLakra91
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # facebook: bibek.lakra.1
+  github: bibeklakra91
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: "@daattali"
-  whatsapp: +91-9125731455
+  # whatsapp: +91-9125731455
 #  medium: yourname
 #  reddit: yourname
- linkedin: bibek-lakra-10736b194
+#  linkedin: bibek-lakra-10736b194
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
