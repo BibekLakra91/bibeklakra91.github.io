@@ -19,6 +19,6 @@ What else do you need? -->
 ### My hobbies
 
 <div style="text-align : justify">
-I do watch a lot of anime and web series in my free time. Also I love to play some video games like genshin impact, valorant and mobile gmaes like pokemon go. Some outdoor games like badminton, cricket and football excites me. Also I am very experienced player of chess in my past. But nowadays, I am very much attached to [leetcode](https://leetcode.com/u/Poha-Jalebi/)
+I do watch a lot of anime and web series in my free time. Also I love to play some video games like genshin impact, valorant and mobile gmaes like pokemon go. Some outdoor games like badminton, cricket and football excites me. Also I am very experienced player of chess in my past. But nowadays, I am very much attached to <a href="https://leetcode.com/u/Poha-Jalebi/">leetcode</a>
 </div>
 
