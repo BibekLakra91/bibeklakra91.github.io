@@ -24,6 +24,28 @@ common-js:
 <!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
 {% include head.html %}
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- <title>{{ page.title | default: site.title }}</title> -->
+
+  <link rel="icon" type="image/x-icon" href="/assets/images/wblogo.jpg">
+
+  <!-- {% for css in site.common-css %}
+  <link rel="stylesheet" href="{{ css }}">
+  {% endfor %}
+
+  {% for extcss in site.common-ext-css %}
+  <link rel="stylesheet" href="{{ extcss.href }}" integrity="{{ extcss.sri }}" crossorigin="anonymous">
+  {% endfor %}
+
+  {% for js in site.common-ext-js %}
+  <script src="{{ js.href }}" integrity="{{ js.sri }}" crossorigin="anonymous"></script>
+  {% endfor %}
+  
+  {% include head_custom.html %} -->
+</head>
+
 <body>
   {% include gtm_body.html %}
 
