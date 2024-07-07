@@ -18,6 +18,7 @@ This <a href="https://github.com/Applib-OpenHarmony/MaterialSliders">open source
 - Category: Graph Theory, Discrete Maths
 - Report: [Analytic techniques in Graph](https://github.com/BibekLakra91/Graphs-Stamatics/blob/main/Project_Report_Graphs_Stamatics.pdf)
 - Mentor: Ayush Basu
+
 <div style="text-align : justify">
 I came across this project though stamatics, IIT Kanpur in Summer'21. I understood graphs from discrete mathematics perspective. We analyzed various graph combinatoric techniques. Techniques of Extremal Combinatorics such as the characteristic function of graph, the Extremal
 Graphs corresponding to n, natural number and H, Tur´an’s Theorem about the extremal number corresponding to H,
