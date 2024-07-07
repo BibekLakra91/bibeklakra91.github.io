@@ -8,7 +8,7 @@ title: Projects
 - Category: Openharmony Library
 - Language: Extended typescript (eTS)
 - Utilities: DevEco Studio
-- Mentor: Ms. Sunanshini Muralidharan
+- Mentor: Sunandhini Muralidharan
 
 <div style="text-align : justify">
 This <a href="https://github.com/Applib-OpenHarmony/MaterialSliders">open source library</a> was developed during my internship at huawei. This is my first step towards open source contribution. Typescript and object oriented programming were extensively used in this project. I was guided by <a href="https://github.com/Applib-OpenHarmony">Huawei's Applib Group</a> and got a chance to interact with experienced industry leaders
@@ -17,7 +17,7 @@ This <a href="https://github.com/Applib-OpenHarmony/MaterialSliders">open source
 ### Graph Combinatorics
 - Category: Graph Theory, Discrete Maths
 - Report: [Analytic techniques in Graph](https://github.com/BibekLakra91/Graphs-Stamatics/blob/main/Project_Report_Graphs_Stamatics.pdf)
-- Mentor: Mr. Anish Basu
+- Mentor: Ayush Basu
 <div style="text-align : justify">
 I came across this project though stamatics, IIT Kanpur in Summer'21. I understood graphs from discrete mathematics perspective. We analyzed various graph combinatoric techniques. Techniques of Extremal Combinatorics such as the characteristic function of graph, the Extremal
 Graphs corresponding to n, natural number and H, Tur´an’s Theorem about the extremal number corresponding to H,
