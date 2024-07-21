@@ -2,7 +2,7 @@
 layout: post
 title: 5 year since joining IIT Kanpur
 subtitle: Memories brings back!
-cover-img: /assets/img/iitk entrance.jpg
+cover-img: /assets/img/y19.jpg
 thumbnail-img: /assets/img/iitk-logo.png
 share-img: /assets/img/y19.jpg
 tags: [IIT Life]
