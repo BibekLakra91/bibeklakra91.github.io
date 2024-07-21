@@ -2,9 +2,9 @@
 layout: post
 title: 5 year since joining IIT Kanpur
 subtitle: Memories brings back!
-cover-img: /assets/img/y19.jpg
+cover-img: /assets/img/y19.png
 thumbnail-img: /assets/img/iitk-logo.png
-share-img: /assets/img/y19.jpg
+share-img: /assets/img/y19.png
 tags: [IIT Life]
 author: Bibek Lakra
 ---
