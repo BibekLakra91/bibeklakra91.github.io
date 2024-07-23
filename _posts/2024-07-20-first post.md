@@ -11,6 +11,6 @@ tags: [IIT Life]
 author: Bibek Lakra
 ---
 
-I have joined IIT Kanpur on 20th July 2019. 
+I had joined IIT Kanpur on 20th July 2019. 
 
 ![iitk-gate](/assets/img/iitk-entrance.jpg)
