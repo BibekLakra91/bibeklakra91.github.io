@@ -21,37 +21,9 @@ common-js:
 
 <!DOCTYPE html>
 <html lang="{{ page.language | default: site.language | default: 'en' }}">
-	
-{% include head.html %}
-<!-- <script>
-	window.onload=function(){
-			document.getElementById('loader').style.display="none"
-			document.getElementById('bd').style.display="block"
-	}
-</script> -->
-<!-- <style>
-#bd{
-		display:none
-}
-#loader{
-		position: absolute;
-		margin: auto;
-		top: 0;
-		left: 0;
-		right: 0;
-		bottom:0;
-		width: 100px;
-		height: 100px;
-}
-#loader img{
-		width: 100%;
-}
-</style> -->
 
+{% include head.html %}
 <body>
-	<!-- <div id="loader">
-			<img src="/assets/img/loader-light.gif" alt="loader">
-	</div>  -->
 	{% include gtm_body.html %}
 
 	{% include nav.html %}
