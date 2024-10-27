@@ -286,7 +286,7 @@ defaults:
 # Exclude these files from production site
 exclude:
   - _posts/2020-02-26-flake-it-till-you-make-it
-  - _posts/2020-02-28-sample-markdown
+  # - _posts/2020-02-28-sample-markdown
   - CHANGELOG.md
   - CNAME
   - Gemfile

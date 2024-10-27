@@ -11,7 +11,17 @@ title: Projects
 - Mentor: Sunandhini Muralidharan
 
 <div style="text-align : justify">
-This <a href="https://github.com/Applib-OpenHarmony/MaterialSliders">open source library</a> was developed during my internship at huawei. This is my first step towards open source contribution. Typescript and object oriented programming were extensively used in this project. I was guided by <a href="https://github.com/Applib-OpenHarmony">Huawei's Applib Group</a> and got a chance to interact with experienced industry leaders
+This <a href="https://github.com/Applib-OpenHarmony/MaterialSliders">open source library</a> was developed during my internship at huawei. This is my first step towards open source contribution. Typescript and object oriented programming were extensively used in this project. This is a slider library, which produce different types of sliders as described in the documentation, upon calling. I was guided by <a href="https://github.com/Applib-OpenHarmony">Huawei's Applib Group</a> and got a chance to interact with experienced industry leaders.
+</div>
+
+### MaterialBackdrop
+- Category: Openharmony Library
+- Language: Extended typescript (eTS)
+- Utilities: DevEco Studio
+- Mentor: Sunandhini Muralidharan
+
+<div style="text-align : justify">
+This <a href="https://github.com/Applib-OpenHarmony/MaterialBackdrop">open source library</a> was developed during my internship at huawei. Typescript and object oriented programming were extensively used in this project. This library can be used for backdrop functionality, which can add backdrop feature upon taking two UIs. I was guided by <a href="https://github.com/Applib-OpenHarmony">Huawei's Applib Group</a> and got a chance to interact with experienced industry leaders
 </div>
 
 ### Graph Combinatorics
